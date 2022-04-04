@@ -1,0 +1,31 @@
+#start-btn {
+  width: 40%;
+}
+#camera {
+  width: 360px;
+  height: 250px;
+  border: 1px solid grey;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  color: white;
+  width: 100%;
+  background-color: gray;
+  line-height: 3;
+  text-align: center;
+}
+.column {
+  display: inline;
+  padding: 10px;
+}
+img {
+  width: 37%;
+  border-radius: 4px;
+  padding: 10px;
+  box-shadow: 0 6px 8px 0 red;
+}
+img:hover {
+  border-radius: 144px;
+}
